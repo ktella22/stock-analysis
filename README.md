@@ -4,14 +4,14 @@
 The purpose is to refactor the Microsoft VBA existing script to gather bigger informations of the stock market based on 2017 and 2018 stockmarket database to forseen whether or not it is worth to investing. In this project, refactoring is done on the existing VBA script and by doing it to run the script faster and more effiect with fewer steps.
 
 # Results
-##Analysis
+## Analysis
 
 Prior to refactoring my code, I started copying the code that was provided in Challenge starter code file. Using the code in the starter file, I selected the correct workspreadsheet to create the required headers that included years of the analysis, ticker array, Total daily volumn and the calculated Retrun values. After that, I followed the steps to add the codes in the required area. Below is the screenshot of the my refactored script:
 
 <img width="840" alt="Screenshot Challenge" src="https://user-images.githubusercontent.com/92502292/140599650-c745077d-9558-4447-8d17-b8a558c9155a.PNG">
 
 
-#Summary
+# Summary
 
 ### The advantages and disadvantages of refactoring code 
 
