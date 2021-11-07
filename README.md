@@ -1,7 +1,7 @@
 # Overview of the Project
 ## Purpose 
 
-The purpose is to refactor the Microsoft VBA existing script to gather bigger informations of the stock market based on 2017 and 2018 stockmarket database to forseen whether or not it is worth to investing. In this project, refactoring is done on the existing VBA script and by doing it to run the script faster and more effiect with fewer steps.
+The purpose of this project is to refactor the Microsoft VBA existing script to gather bigger informations based on 2017 and 2018 stockmarket database to forseen whether or not it is worth to investing. In this project, refactoring is done on the existing VBA script and by doing it to run the script faster and more effiect with fewer steps.
 
 # Results
 ## Analysis
@@ -19,4 +19,4 @@ Prior to refactoring my code, I started copying the code that was provided in Ch
 
 ### The advantages and disadvantages of the original and refactored VBA script
 
-- Refactoring definitely shorten the time of the analysis run and it is a major advantage. The original VBA scipt took over one second to run the code, but the refactored script took around 0.23 seconds to run the code for each stockmarket year. The refactored version reduced the running time by 75% from the orginal script. However, there are three for loops that was used to run the code in refactored VBA script instead of using nested loop in original script. With three for loops by using same "i" iterators can be quite confusing and it can easily misplaced the closing loop in the wrong line.
+- Refactoring definitely shorten the time of the analysis run and it is a major advantage. The original VBA scipt took over one second to run the code, but the refactored script took around 0.23 seconds to run the code for each stockmarket year. The refactored version reduced the running time by 75% from the orginal script. However, there are three for loops that was used to run the code in refactored VBA script instead of using nested loop in original script. With three for loops by using same "i" iterators can be quite confusing and it can easily be misplaced the closing loop in the wrong line.
